@@ -6,6 +6,8 @@
 Welcome to doc-test's documentation!
 ====================================
 
+0.0.2 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
