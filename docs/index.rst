@@ -10,6 +10,11 @@ Welcome to doc-test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+AKE
+==================
+
+.. toctree::
+   ake
 
 
 Indices and tables
